@@ -1,7 +1,0 @@
-# git related
-.git
-
-# terraform related
-.terraform
-.terraform.lock.hcl
-
